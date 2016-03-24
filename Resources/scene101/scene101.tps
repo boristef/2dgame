@@ -192,11 +192,6 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>bean01.png</filename>
-            <filename>bean02.png</filename>
-            <filename>bean03.png</filename>
-            <filename>bean04.png</filename>
-            <filename>bg.png</filename>
             <filename>cuber01.png</filename>
             <filename>cuber02.png</filename>
             <filename>cuber03.png</filename>
@@ -205,17 +200,61 @@
             <filename>cuber06.png</filename>
             <filename>cuber07.png</filename>
             <filename>cuber08.png</filename>
-            <filename>cuberbtn1.png</filename>
-            <filename>cuberbtn2.png</filename>
-            <filename>cuberbtn3.png</filename>
-            <filename>s101bgimg.png</filename>
-            <filename>s101line01.png</filename>
-            <filename>s101line02.png</filename>
-            <filename>sr_f_triangle.png</filename>
-            <filename>sr_line1.png</filename>
-            <filename>sr_line2.png</filename>
-            <filename>returnbtn.png</filename>
-            <filename>replaybtn.png</filename>
+            <filename>flame1_01.png</filename>
+            <filename>flame1_02.png</filename>
+            <filename>flame1_03.png</filename>
+            <filename>flame1_04.png</filename>
+            <filename>flame1_05.png</filename>
+            <filename>flame1_06.png</filename>
+            <filename>flame1_07.png</filename>
+            <filename>flame2_01.png</filename>
+            <filename>flame2_02.png</filename>
+            <filename>flame2_03.png</filename>
+            <filename>flame2_04.png</filename>
+            <filename>flame2_05.png</filename>
+            <filename>flame2_06.png</filename>
+            <filename>flame2_07.png</filename>
+            <filename>flame2_08.png</filename>
+            <filename>flame2_09.png</filename>
+            <filename>flame2_10.png</filename>
+            <filename>flame2_11.png</filename>
+            <filename>flame2_12.png</filename>
+            <filename>flame2_13.png</filename>
+            <filename>ceyes1.png</filename>
+            <filename>ceyes2.png</filename>
+            <filename>ceyes3.png</filename>
+            <filename>cmouth1.png</filename>
+            <filename>cmouth2.png</filename>
+            <filename>bean1_01.png</filename>
+            <filename>bean1_02.png</filename>
+            <filename>bean1_03.png</filename>
+            <filename>bean1_04.png</filename>
+            <filename>bean1_05.png</filename>
+            <filename>bean1_jump01.png</filename>
+            <filename>bean1_jump02.png</filename>
+            <filename>bean1_jump03.png</filename>
+            <filename>bean1_jump04.png</filename>
+            <filename>bean1_wave01.png</filename>
+            <filename>bean1_wave02.png</filename>
+            <filename>bean1_wave03.png</filename>
+            <filename>bean2_01.png</filename>
+            <filename>bean2_02.png</filename>
+            <filename>bean2_03.png</filename>
+            <filename>bean2_04.png</filename>
+            <filename>bean2_05.png</filename>
+            <filename>cubershadow.png</filename>
+            <filename>triblock.png</filename>
+            <filename>triouter.png</filename>
+            <filename>trishadow.png</filename>
+            <filename>checkbox.png</filename>
+            <filename>checkboxon.png</filename>
+            <filename>checkoff.png</filename>
+            <filename>checkon.png</filename>
+            <filename>sliderProgress.png</filename>
+            <filename>sliderTrack.png</filename>
+            <filename>loadingbar.png</filename>
+            <filename>sliderballnormal.png</filename>
+            <filename>sliderballpressed.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
